@@ -1,0 +1,7 @@
+[2023-10-03 at 15:58:56 EEST] Logger start to work
+[2023-10-03 at 15:58:56 EEST] [INFO] Monitor constructor called
+[2023-10-03 at 15:58:56 EEST] [INFO] Monitor TurnOn method called
+[2023-10-03 at 15:58:56 EEST] [INFO] Method Monitor TurnOff called
+[2023-10-03 at 15:58:56 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-03 at 15:58:56 EEST] [INFO] Monitor TurnOn method called
+[2023-10-03 at 15:58:56 EEST] [INFO] Monitor method ChangeFrequency called
