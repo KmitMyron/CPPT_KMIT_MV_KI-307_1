@@ -1,0 +1,35 @@
+[2023-10-10 at 10:31:38 EEST] Logger start to work
+[2023-10-10 at 10:31:38 EEST] [INFO] Monitor constructor called
+[2023-10-10 at 10:31:38 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:31:38 EEST] [INFO] Method Monitor TurnOff called
+[2023-10-10 at 10:31:38 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:31:38 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:31:38 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:32:20 EEST] Logger start to work
+[2023-10-10 at 10:32:20 EEST] [INFO] Monitor constructor called
+[2023-10-10 at 10:32:20 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:32:20 EEST] [INFO] Method Monitor TurnOff called
+[2023-10-10 at 10:32:20 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:32:20 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:32:20 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:32:56 EEST] Logger start to work
+[2023-10-10 at 10:32:56 EEST] [INFO] Monitor constructor called
+[2023-10-10 at 10:32:56 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:32:56 EEST] [INFO] Method Monitor TurnOff called
+[2023-10-10 at 10:32:56 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:32:56 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:32:56 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:33:32 EEST] Logger start to work
+[2023-10-10 at 10:33:32 EEST] [INFO] Monitor constructor called
+[2023-10-10 at 10:33:32 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:33:32 EEST] [INFO] Method Monitor TurnOff called
+[2023-10-10 at 10:33:32 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:33:32 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:33:32 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:35:16 EEST] Logger start to work
+[2023-10-10 at 10:35:16 EEST] [INFO] Monitor constructor called
+[2023-10-10 at 10:35:16 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:35:16 EEST] [INFO] Method Monitor TurnOff called
+[2023-10-10 at 10:35:16 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:35:16 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:35:16 EEST] [INFO] Monitor method ChangeFrequency called

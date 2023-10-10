@@ -47,3 +47,31 @@
 [2023-10-06 at 15:28:43 EEST] [INFO] Monitor method ChangeFrequency called
 [2023-10-06 at 15:28:43 EEST] [INFO] Monitor TurnOn method called
 [2023-10-06 at 15:28:43 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 09:47:31 EEST] Logger start to work
+[2023-10-10 at 09:47:31 EEST] [INFO] Monitor constructor called
+[2023-10-10 at 09:47:31 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 09:47:31 EEST] [INFO] Method Monitor TurnOff called
+[2023-10-10 at 09:47:31 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 09:47:31 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 09:47:31 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:11:04 EEST] Logger start to work
+[2023-10-10 at 10:11:04 EEST] [INFO] Monitor constructor called
+[2023-10-10 at 10:11:04 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:11:04 EEST] [INFO] Method Monitor TurnOff called
+[2023-10-10 at 10:11:04 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:11:04 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:11:04 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:17:49 EEST] Logger start to work
+[2023-10-10 at 10:17:49 EEST] [INFO] Monitor constructor called
+[2023-10-10 at 10:17:49 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:17:49 EEST] [INFO] Method Monitor TurnOff called
+[2023-10-10 at 10:17:49 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:17:49 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:17:49 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:35:36 EEST] Logger start to work
+[2023-10-10 at 10:35:37 EEST] [INFO] Monitor constructor called
+[2023-10-10 at 10:35:37 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:35:37 EEST] [INFO] Method Monitor TurnOff called
+[2023-10-10 at 10:35:37 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 10:35:37 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 10:35:37 EEST] [INFO] Monitor method ChangeFrequency called
