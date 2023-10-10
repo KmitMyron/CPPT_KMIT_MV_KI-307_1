@@ -75,3 +75,10 @@
 [2023-10-10 at 10:35:37 EEST] [INFO] Monitor method ChangeFrequency called
 [2023-10-10 at 10:35:37 EEST] [INFO] Monitor TurnOn method called
 [2023-10-10 at 10:35:37 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 15:32:09 EEST] Logger start to work
+[2023-10-10 at 15:32:09 EEST] [INFO] Monitor constructor called
+[2023-10-10 at 15:32:09 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 15:32:09 EEST] [INFO] Method Monitor TurnOff called
+[2023-10-10 at 15:32:09 EEST] [INFO] Monitor method ChangeFrequency called
+[2023-10-10 at 15:32:09 EEST] [INFO] Monitor TurnOn method called
+[2023-10-10 at 15:32:09 EEST] [INFO] Monitor method ChangeFrequency called
